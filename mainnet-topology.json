@@ -1,0 +1,84 @@
+{
+    "Producers": [
+        {
+            "addr": "10.0.0.6",
+            "port": 3001,
+            "valency": 1
+        },
+        {
+            "addr": "10.0.0.4",
+            "port": 3001,
+            "valency": 1
+        },
+        {
+            "addr": "10.0.7.4",
+            "port": 3001,
+            "valency": 1
+        },
+        {
+            "addr": "relays-new.cardano-mainnet.iohk.io",
+            "port": 3001,
+            "valency": 2
+        },
+        {
+            "addr": "68.190.51.68",
+            "port": 3001,
+            "valency": 1
+        },
+        {
+            "addr": "relays.banderini.net",
+            "port": 3001,
+            "valency": 1
+        },
+        {
+            "addr": "164.90.227.122",
+            "port": 3003,
+            "valency": 1
+        },
+        {
+            "addr": "161.35.73.146",
+            "port": 3004,
+            "valency": 1
+        },
+        {
+            "addr": "relay.winepool.io",
+            "port": 3001,
+            "valency": 1
+        },
+        {
+            "addr": "34.83.194.232",
+            "port": 6000,
+            "valency": 1
+        },
+        {
+            "addr": "44.232.108.33",
+            "port": 9000,
+            "valency": 1
+        },
+        {
+            "addr": "35.233.139.57",
+            "port": 6000,
+            "valency": 1
+        },
+        {
+            "addr": "35.227.174.8",
+            "port": 6001,
+            "valency": 1
+        },
+        {
+            "addr": "44.228.177.116",
+            "port": 6001,
+            "valency": 1
+        },
+        {
+            "addr": "gys-relay2.growyourstake.com",
+            "port": 6001,
+            "valency": 1
+        },
+        {
+            "addr": "adarelay02-hz.keen.world",
+            "port": 8880,
+            "valency": 1
+        }
+    ]
+}
